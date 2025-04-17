@@ -30,9 +30,7 @@ To evolve better feature combinations, three crossover techniques were tested:
 - Feature selection and encoding of categorical variables
 - Dataset balancing using undersampling
 - F1 score used as the objective function:
-  
-
-F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
+  F1 Score = 2 * (Precision * Recall) / (Precision + Recall)
 
 
 ## 🔍 Key Findings
